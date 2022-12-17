@@ -5,7 +5,7 @@
 }
 
 .mobile-main{
-    background-color: #E1FFB1;
+    background-color: #a020f0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,11 +71,11 @@ svg{
     }
 
     .mobile-main{
-        background-color: #FFCACA;
+        background-color: #a020f0;
     }
 }  
 
 .active{
-    color: rgb(70, 153, 67) !important;
-    fill: rgb(70, 153, 67);
+    color: rgb(160,32,240) !important;
+    fill: rgb(160,32,240);
 }
